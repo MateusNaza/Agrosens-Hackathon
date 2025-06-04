@@ -16,7 +16,7 @@ Este repositório contém o treinamento do modelo de Random Forest para categori
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/modelo-ML.git
+   git clone https://github.com/MateusNaza/modelo-ML.git
    cd modelo-ML
    ```
 
