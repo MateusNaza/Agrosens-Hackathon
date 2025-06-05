@@ -6,7 +6,7 @@ Este repositório contém o treinamento do modelo de Random Forest para categori
 
 # Requisitos
 
-- Python → 3.10.*
+- Python >= 3.10.*
 - Visual Studio Code
 - Extensões recomendadas para VS Code:
     - Python 
